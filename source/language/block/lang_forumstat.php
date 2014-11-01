@@ -35,15 +35,15 @@ $lang = array
 	'forumstat_members_text' => 'По количеству слов',
 	'forumstat_members_default' => 'Пользователей: ',
 
-	'forumstat_online_allow' => 'Онлайн',
+	'forumstat_online_allow' => 'В сети',
 	'forumstat_online_order' => 'По названию',
 	'forumstat_online_text' => 'По количеству слов',
-	'forumstat_online_default' => 'Онлайн: ',
+	'forumstat_online_default' => 'В сети: ',
 
-	'forumstat_onlinemember_allow' => 'Онлайн пользователи',
+	'forumstat_onlinemember_allow' => 'Пользователи в сети',
 	'forumstat_onlinemember_order' => 'По названию',
 	'forumstat_onlinemember_text' => 'По количеству слов',
-	'forumstat_onlinemember_default' => 'Онлайн пользователей: ',
+	'forumstat_onlinemember_default' => 'Пользователи в сети: ',
 );
 
 ?>
